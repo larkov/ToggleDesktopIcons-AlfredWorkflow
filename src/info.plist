@@ -106,8 +106,10 @@ fi</string>
 	</dict>
 	<key>userconfigurationconfig</key>
 	<array/>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
-	<string>1.0</string>
+	<string>1.0.1</string>
 	<key>webaddress</key>
 	<string>https://kovanen.se/software/tdi-alfred/</string>
 </dict>
