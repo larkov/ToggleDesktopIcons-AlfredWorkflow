@@ -9,3 +9,8 @@ Deskop with icons.
 
 Desktop without icons.  
 ![Without icons](img/without-icons.png)
+
+## Instalation
+Download the latest release from the [Releases page](https://github.com/larkov/ToggleDesktopIcons-AlfredWorkflow/releases) and click on the downloaded file and Alfred should take care of it.
+
+If the icons reappear after the first toggle just run it once more.
